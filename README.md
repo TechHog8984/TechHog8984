@@ -11,4 +11,5 @@ I primarily speak English, but I may be able to communicate in Spanish depending
 * [luau-format](../../../luau-format) - A fast Luau code formatter in C++ capable of simplifying a wide range of expressions
 * [Droppher](../../../droppher) - An experimental and relatively feature-less Hypixel overlay in rust with a current focus on the Dropper minigame
 * [roblox_pack](../../../roblox_pack.luau) - A Luau (de)serialization library for Roblox
+* [bcdl](../../../bandcampdownloader) - A CLI tool to download songs/albums from Bandcamp
 * [inu](../../../inu) - A WIP tool in Rust for working with Lua bytecode

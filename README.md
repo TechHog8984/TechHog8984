@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm TechHog, a US-based, competent developer in highschool working with Lua(u) and C++ who occasionally does stuff in Python3 and Rust too.
+I'm TechHog, a US-based, competent developer working with Lua(u) and C++ who occasionally does stuff in Python3 and Rust too.
 
 My discord is techhog (402264559509045258), and I use the name TechHog/techhog everywhere.
 
